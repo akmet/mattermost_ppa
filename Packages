@@ -1,0 +1,38 @@
+Package: mattermost-desktop
+Version: 5.0.0-14249
+Architecture: amd64
+Maintainer: Mattermost, Inc. <feedback@mattermost.com>
+Installed-Size: 232942
+Depends: gconf2, gconf-service, libnotify4, libxtst6, libnss3
+Filename: ./mattermost-desktop-5.0.0-linux-amd64.deb
+Size: 63271248
+MD5sum: 31627108123571a7051648b5117117da
+SHA1: 93c1823b9ece8a0feec71ec72475d74ee2146b0f
+SHA256: 7170c1471f5360c9e6dfcfb6957d2a1e40ef17e54a52bd3670830cd3ded4f874
+Section: default
+Priority: optional
+Homepage: https://about.mattermost.com
+Description: Mattermost Desktop App
+  Mattermost
+License: Apache-2.0
+Vendor: Mattermost, Inc. <feedback@mattermost.com>
+
+Package: mattermost-desktop
+Version: 5.0.0-14249
+Architecture: i386
+Maintainer: Mattermost, Inc. <feedback@mattermost.com>
+Installed-Size: 221549
+Depends: gconf2, gconf-service, libnotify4, libxtst6, libnss3
+Filename: ./mattermost-desktop-5.0.0-linux-i386.deb
+Size: 62941524
+MD5sum: 97472cdc81e3c1458773393b90d1492d
+SHA1: 356e12b246e9bc962aa34bc8ca2fcbe2207230d0
+SHA256: 7ddec36b7ddbf9e789caa65a8b313a76264c68008a14c7cf9629c4b69028b551
+Section: default
+Priority: optional
+Homepage: https://about.mattermost.com
+Description: Mattermost Desktop App
+  Mattermost
+License: Apache-2.0
+Vendor: Mattermost, Inc. <feedback@mattermost.com>
+

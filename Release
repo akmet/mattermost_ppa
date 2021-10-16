@@ -1,0 +1,17 @@
+Date: Sat, 16 Oct 2021 14:47:00 +0000
+MD5Sum:
+ 60cae77e31bb5fd81431bd3410db7fc0             1266 Packages
+ 8bf50cc5c9d824d88b5db8e5a4980649              545 Packages.gz
+ 147078acc121bbf861a28ecaaf9d52b5               38 Release
+SHA1:
+ 149e7cd66eda7b46f20359340d5b86a27f6f80dd             1266 Packages
+ 4ef7ca80fd82fcd3d6c4acd364b112409408460b              545 Packages.gz
+ a6928c23eb8115d1e7869bb3e501246cad3215f6               38 Release
+SHA256:
+ 83b73728c275d012daed9bd1f956f12a5abc64d0e59bb5efa206f459a9e61148             1266 Packages
+ 0348cf6cb800bd250c290f26e3ff3c850bc6db127bab94da7de00ba3955fc372              545 Packages.gz
+ 46bd1b51488dd9c28280bb7d975b0290771adb4b23b80439f8a97a6e4dcefb7b               38 Release
+SHA512:
+ 2d55295d8cb488d3da7e0d213863028eb0733e311de7595264e047b83adcfe891173dde74228ef1ae5f14907b4bcb2a12a29c30cc68b88e57b5303d595b84718             1266 Packages
+ 62a88a495a4bf4a51a620e1e00f231a64b4bc22a17da0ce1efa68d223e6b1e2d59afbba8ff34bdea50a949563e2f34ce14aec2cb903f6894fdab03facb2a069d              545 Packages.gz
+ ecef8ca356362c50ed779882a1f6de1659b08e88f3b0223d9beeefd86cabd454dfed6e490fcc3558a15838192ff7fe3208f3e0b00f2ed792c27f0f14621f5b59               38 Release
