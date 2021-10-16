@@ -1,0 +1,10 @@
+To use this PPA:
+
+1. Add GPG key
+<code>curl -s --compressed https://akmet.github.io/mattermost_ppa/KEY.gpg | sudo apt-key add -</code>
+
+2. Download repository information
+<code>sudo curl -s --compressed -o /etc/apt/sources.list.d/mattermost_ppa.list "https://akmet.github.io/mattermost_ppa/mattermost_ppa.list"</code>
+
+3. Install mattermost-desktop
+<code>sudo apt update && sudo apt install mattermost-desktop</code>
